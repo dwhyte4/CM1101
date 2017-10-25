@@ -1,4 +1,4 @@
 print("Hello!")
 print("Changes in another")
-print("Wrld")
-print("More changes")
+print("World")
+print("Still more changes")
